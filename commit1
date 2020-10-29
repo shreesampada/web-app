@@ -1,0 +1,6 @@
+<pre>
+<?php
+print("test1");
+print `/usr/sbin/ifconfig`;
+?>
+</pre>
